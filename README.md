@@ -63,4 +63,4 @@ flutter run
 - The app will automatically adjust its layout based on the screen size and platform.
 
 ## Author
-Akash R
+- Akash R
